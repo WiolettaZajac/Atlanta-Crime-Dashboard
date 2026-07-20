@@ -56,7 +56,6 @@ The dataset contains historical crime records from Atlanta, including:
 
 ## 📸 Dashboard Preview
 
-
 ![Atlanta Crime Dashboard](Atl_crime_dashboard.png)
 
 
@@ -93,11 +92,7 @@ Creating relationships between tables required careful planning to avoid incorre
 
 Some measures required more complex DAX formulas, including dynamic KPIs and time-based calculations. I created reusable measures that updated automatically when users applied filters.
 
-### 4. Dashboard Performance
-
-As the dataset became larger, some visuals loaded more slowly. I reduced unnecessary columns, optimised the data model and simplified DAX measures to improve performance.
-
-### 5. Dashboard Design
+### 4. Dashboard Design
 
 One of the biggest challenges was presenting a large amount of information without making the dashboard difficult to read. I organised the visuals into logical sections, used consistent colours and added interactive slicers so users could easily explore the data.
 
@@ -125,7 +120,6 @@ Atlanta-Crime-Dashboard/
 └── images/
     └── Atl_crime_dashboard.png
 ```
-
 
 ## 👤 Author
 
