@@ -58,7 +58,7 @@ The dataset contains historical crime records from Atlanta, including:
 
 ### Dashboard Overview
 
-![Dashboard Overview]
+![Atlanta Crime Dashboard](images/Atl_crime_dashboard.png)
 
 ### Crime Analysis
 
@@ -122,10 +122,8 @@ Atlanta-Crime-Dashboard/
 │
 ├── CrimeDashboard_atlanta.pbix
 ├── README.md
-├── images/
-│   ├── dashboard-overview.png
-│   └── dashboard-analysis.png
-└── data/
+└── images/
+    └── Atl_crime_dashboard.png
 ```
 
 
