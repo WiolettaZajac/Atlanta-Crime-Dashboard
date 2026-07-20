@@ -57,7 +57,7 @@ The dataset contains historical crime records from Atlanta, including:
 ## 📸 Dashboard Preview
 
 
-![Atlanta Crime Dashboard](images/Atl_crime_dashboard.png)
+![Atlanta Crime Dashboard](Atl_crime_dashboard.png)
 
 
 ## 💡 Key Insights
