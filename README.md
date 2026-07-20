@@ -61,7 +61,7 @@ The dataset contains historical crime records from Atlanta, including:
 
 ## 🌐 Live Dashboard
 
-[View my Interactive Power BI Dashboard](https://app.powerbi.com/...)
+🔗 [View my Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlOTEzNTEtZWYwMS00MDMzLWFiYjktZTU0NjU4ZTY0Nzg3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
 ## 💡 Key Insights
