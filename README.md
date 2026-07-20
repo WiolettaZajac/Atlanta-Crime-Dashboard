@@ -56,15 +56,9 @@ The dataset contains historical crime records from Atlanta, including:
 
 ## 📸 Dashboard Preview
 
-### Dashboard Overview
 
 ![Atlanta Crime Dashboard](images/Atl_crime_dashboard.png)
 
-### Crime Analysis
-
-![Crime Analysis]
-
----
 
 ## 💡 Key Insights
 
@@ -74,6 +68,12 @@ The dataset contains historical crime records from Atlanta, including:
 - Explore crime hotspots using map visualisations.
 
 ---
+
+## 📈 Project Outcome
+
+This dashboard provides an interactive way to explore crime data in Atlanta. It enables users to identify crime trends, compare neighbourhoods and investigate crime hotspots through dynamic visualisations.
+
+The project demonstrates practical skills in data cleaning, data modelling, DAX and dashboard design. It also shows how raw data can be transformed into meaningful insights that support informed decision-making.
 
 ---
 
