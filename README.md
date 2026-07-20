@@ -59,6 +59,9 @@ The dataset contains historical crime records from Atlanta, including:
 ![Atlanta Crime Dashboard](Atl_crime_dashboard.png)
 
 
+🔗 **View the interactive Power BI dashboard:** https://app.powerbi.com/...
+
+
 ## 💡 Key Insights
 
 - Property crime is the most common type of crime in Atlanta.
