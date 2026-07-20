@@ -45,12 +45,12 @@ The dataset contains historical crime records from Atlanta, including:
 
 ## 📈 Dashboard Features
 
-- Interactive KPI cards
-- Crime trend analysis
-- Crime category breakdown
-- Map visualisations
-- Slicers and filters
-- Dynamic charts and graphs
+- Interactive KPI cards showing key crime statistics.
+- Dynamic filters for crime type, date and location.
+- Time-series analysis to identify crime trends.
+- Map visualisations showing crime hotspots.
+- Category comparison using interactive charts.
+- Drill-down capabilities for more detailed analysis.
 
 ---
 
