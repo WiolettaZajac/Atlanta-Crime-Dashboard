@@ -16,7 +16,7 @@ The aim of this project is to transform raw crime data into meaningful insights 
 - Identify the most common crime categories.
 - Compare crime across different neighbourhoods.
 - Explore changes in crime over time.
-- Present insights in a clear and interactive dashboard.
+- Present crime data in a clear and interactive dashboard.
 
 ---
 
@@ -111,11 +111,8 @@ One of the biggest challenges was presenting a large amount of information witho
 
 ```text
 Atlanta-Crime-Dashboard/
-│
-├── CrimeDashboard_atlanta.pbix
-├── README.md
-└── images/
-    └── Atl_crime_dashboard.png
+├── Atl_crime_dashboard.png
+└── README.md
 ```
 
 ## 👤 Author
