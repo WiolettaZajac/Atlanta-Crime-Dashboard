@@ -65,7 +65,7 @@ Before creating the dashboard, the data was prepared by:
 
 ## 📁 Files
 
-- [Power BI Report](dashboard/atlanta_crime_dashboard.pbix) – Source Power BI report for the interactive dashboard.
+- [Power BI Report](dashboard/CrimeDashboard_atlanta.pbix) – Source Power BI report for the interactive dashboard.
 
 ## 📷 Dashboard Preview
 
