@@ -1,30 +1,36 @@
 # 🚔 Atlanta Crime Dashboard (Power BI)
 
-This project is an interactive dashboard created in Power BI to analyse crime data in Atlanta. The dashboard presents key insights through interactive visualisations, allowing users to explore crime trends, compare neighbourhoods, identify crime hotspots, and analyse incidents over time.
+This project is an interactive dashboard built in Power BI using Atlanta crime data.
 
-The project involved preparing and transforming crime data, building a data model, creating DAX measures, and designing an interactive dashboard to support data-driven decision-making.
+The dashboard explores crime trends across the city and allows users to analyse crime categories, neighbourhoods, locations, and changes over time through interactive visualisations.
 
-## 🎯 Project Aim
+I created this project to practise using Power BI, Power Query, and DAX while working with a real-world dataset.
 
-The main goals of this project were to:
+---
 
-- Prepare and transform crime data for analysis.
+## 🎯 Project Objectives
+
+- Prepare and transform the crime data.
 - Analyse crime trends using Power BI.
 - Build an interactive dashboard with filters and visualisations.
-- Identify patterns across crime categories, locations, and time.
-- Present the results in a clear and easy-to-understand format.
+- Compare crime across neighbourhoods, locations, and time.
+- Present key insights in a clear and interactive dashboard.
+
+---
 
 ## 📊 Live Dashboard
 
 🔗 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlOTEzNTEtZWYwMS00MDMzLWFiYjktZTU0NjU4ZTY0Nzg3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
 
+---
+
 ## 📂 Dataset
 
-The dataset contains historical crime records from Atlanta. Each record includes information about the crime category, date and time, location, neighbourhood, police beat, and geographic coordinates.
+The dataset contains historical crime records from Atlanta.
 
-The data was prepared and transformed in Power BI before being analysed to create the interactive dashboard.
+Each record includes information such as the crime category, date and time of the incident, neighbourhood, police beat, and geographic coordinates.
 
-The main columns include:
+Before building the dashboard, I cleaned and transformed the data in Power BI to make it suitable for analysis.
 
 | Column | Description |
 |---------|-------------|
@@ -36,9 +42,11 @@ The main columns include:
 | `Latitude` | Latitude coordinate |
 | `Longitude` | Longitude coordinate |
 
+---
+
 ## 🧹 Data Preparation
 
-Before creating the dashboard, the data was prepared by:
+The data preparation process included:
 
 - Cleaning missing and duplicate records.
 - Standardising data formats.
@@ -46,14 +54,18 @@ Before creating the dashboard, the data was prepared by:
 - Creating relationships between tables.
 - Building DAX measures for KPIs and calculations.
 
-## 📊 Features
+---
+
+## 📊 Dashboard Features
 
 - Crime trend analysis
 - Crime category comparison
 - Neighbourhood analysis
 - Interactive maps
 - KPI cards
-- Interactive dashboard with filters and slicers
+- Filters and slicers
+
+---
 
 ## 🛠️ Tools Used
 
@@ -63,43 +75,57 @@ Before creating the dashboard, the data was prepared by:
 - Data Modelling
 - Data Visualisation
 
-## 📁 Files
+---
 
-- [Power BI Report](dashboard/CrimeDashboard_atlanta.pbix) – Source Power BI report for the interactive dashboard.
+## 📁 Project Files
+
+- [CrimeDashboard_atlanta.pbix](dashboard/CrimeDashboard_atlanta.pbix)
+
+---
 
 ## 📷 Dashboard Preview
 
-The dashboard allows users to interact with the data using filters to explore crime trends by neighbourhood, crime category, and time.
+The dashboard includes interactive filters that allow users to explore crime data by neighbourhood, crime category, and time.
 
 ![Atlanta Crime Dashboard](images/Atl_crime_dashboard.png)
 
-## ❓ Business Questions Answered
+---
 
-This dashboard helps answer questions such as:
+## ❓ Business Questions
+
+The dashboard helps answer questions such as:
 
 - Which crime categories occur most frequently?
 - Which neighbourhoods report the highest crime levels?
 - How does crime change over time?
 - Where are crime hotspots located?
-- What trends can be identified across different locations?
+- What patterns can be identified across different areas?
+
+---
 
 ## 📈 Key Insights
 
 - Property crime is the most common crime category.
 - Crime levels vary across neighbourhoods.
-- Some periods record noticeably higher crime activity than others.
-- Interactive maps help identify crime hotspots across Atlanta.
+- Some periods show noticeably higher crime activity than others.
+- The map makes it easy to identify crime hotspots across Atlanta.
 
-## ⚠️ Challenges Faced
+---
 
-During this project, I faced a few challenges that helped me improve my Power BI and data analysis skills.
+## 💡 What I Learned
 
-- Cleaning inconsistent data and preparing it for analysis using Power Query.
-- Building an efficient data model with appropriate relationships.
-- Writing DAX measures to calculate KPIs and dynamic metrics.
-- Designing an interactive dashboard that presents large amounts of information without becoming cluttered.
+This project gave me more hands-on experience with Power BI and introduced me to some new challenges.
 
-By overcoming these challenges, I improved my Power BI skills, gained confidence in data modelling and DAX, and learned how to communicate insights through interactive dashboards.
+Some of the things I found most challenging were:
+
+- Cleaning inconsistent data in Power Query.
+- Building a data model with the correct relationships.
+- Writing DAX measures for KPIs and dynamic calculations.
+- Designing a dashboard that showed enough information without becoming cluttered.
+
+Working through these challenges improved my understanding of Power Query, DAX, and dashboard design, and gave me more confidence using Power BI.
+
+---
 
 ## 🎯 Skills Demonstrated
 
@@ -111,13 +137,16 @@ By overcoming these challenges, I improved my Power BI skills, gained confidence
 - Interactive dashboard design
 - Data visualisation
 - Business intelligence
-- Turning raw data into clear business insights
+
+---
 
 ## 🚀 About This Project
 
-This project is part of my data analytics portfolio. It helped me improve my Power BI skills, particularly in data modelling, DAX, dashboard design, and data visualisation.
+This project is part of my data analytics portfolio.
 
-During this project, I learned how to transform raw crime data into interactive dashboards and present meaningful insights in a clear and engaging way. I look forward to continuing to build projects using Power BI and other data analytics tools.
+It gave me practical experience working with real-world data, transforming it in Power Query, building a data model, writing DAX measures, and creating an interactive dashboard in Power BI.
+
+---
 
 ## 👤 Author
 
