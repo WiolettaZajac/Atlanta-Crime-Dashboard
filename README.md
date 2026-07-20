@@ -61,20 +61,17 @@ The dataset contains historical crime records from Atlanta, including:
 
 ## 💡 Key Insights
 
-- Identify the most common crime types.
-- Monitor monthly and yearly crime trends.
-- Compare crime levels between different areas.
-- Explore crime hotspots using map visualisations.
-
+- Property crime is the most common type of crime in Atlanta.
+- Crime levels vary between neighbourhoods across Atlanta.
+- Crime trends change over time, with some months showing more incidents than others.
+- The dashboard helps identify crime hotspots through interactive map visualisations.
 ---
 
 ## 📈 Project Outcome
 
-This dashboard provides an interactive way to explore crime data in Atlanta. It enables users to identify crime trends, compare neighbourhoods and investigate crime hotspots through dynamic visualisations.
+The final dashboard provides an interactive way to analyse crime data in Atlanta. Users can explore crime trends, compare neighbourhoods and identify areas with higher numbers of reported incidents.
+This project demonstrates my skills in data cleaning, data modelling, DAX and dashboard design, as well as my ability to transform raw data into meaningful business insights.
 
-The project demonstrates practical skills in data cleaning, data modelling, DAX and dashboard design. It also shows how raw data can be transformed into meaningful insights that support informed decision-making.
-
----
 
 ## ⚡ Challenges and Solutions
 
