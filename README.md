@@ -1,14 +1,12 @@
-# 🚔 Atlanta Crime Dashboard (Power BI)
+# Atlanta Crime Dashboard (Power BI)
 
-This project is an interactive dashboard built in Power BI using Atlanta crime data.
+This project is an interactive Power BI dashboard built using crime data from Atlanta. I created it to practise working with Power BI, Power Query, and DAX while analysing a real-world dataset.
 
-The dashboard explores crime trends across the city and allows users to analyse crime categories, neighbourhoods, locations, and changes over time through interactive visualisations.
-
-I created this project to practise using Power BI, Power Query, and DAX while working with a real-world dataset.
+The dashboard allows users to explore crime trends over time, compare neighbourhoods and crime categories, and identify areas with higher crime levels using interactive maps and filters.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Prepare and transform the crime data.
 - Analyse crime trends using Power BI.
@@ -18,18 +16,16 @@ I created this project to practise using Power BI, Power Query, and DAX while wo
 
 ---
 
-## 📊 Live Dashboard
+## Live Dashboard
 
-🔗 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlOTEzNTEtZWYwMS00MDMzLWFiYjktZTU0NjU4ZTY0Nzg3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
+ **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVlOTEzNTEtZWYwMS00MDMzLWFiYjktZTU0NjU4ZTY0Nzg3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)**
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains historical crime records from Atlanta.
-
 Each record includes information such as the crime category, date and time of the incident, neighbourhood, police beat, and geographic coordinates.
-
 Before building the dashboard, I cleaned and transformed the data in Power BI to make it suitable for analysis.
 
 | Column | Description |
@@ -44,30 +40,7 @@ Before building the dashboard, I cleaned and transformed the data in Power BI to
 
 ---
 
-## 🧹 Data Preparation
-
-The data preparation process included:
-
-- Cleaning missing and duplicate records.
-- Standardising data formats.
-- Transforming data using Power Query.
-- Creating relationships between tables.
-- Building DAX measures for KPIs and calculations.
-
----
-
-## 📊 Dashboard Features
-
-- Crime trend analysis
-- Crime category comparison
-- Neighbourhood analysis
-- Interactive maps
-- KPI cards
-- Filters and slicers
-
----
-
-## 🛠️ Tools Used
+## Tools Used
 
 - Power BI Desktop
 - Power Query
@@ -77,7 +50,7 @@ The data preparation process included:
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - [CrimeDashboard_atlanta.pbix](dashboard/CrimeDashboard_atlanta.pbix)
 
@@ -91,63 +64,37 @@ The dashboard includes interactive filters that allow users to explore crime dat
 
 ---
 
-## ❓ Business Questions
+## Key Findings
 
-The dashboard helps answer questions such as:
+Some of the insights from the dashboard include:
 
-- Which crime categories occur most frequently?
-- Which neighbourhoods report the highest crime levels?
-- How does crime change over time?
-- Where are crime hotspots located?
-- What patterns can be identified across different areas?
-
----
-
-## 📈 Key Insights
-
-- Property crime is the most common crime category.
-- Crime levels vary across neighbourhoods.
-- Some periods show noticeably higher crime activity than others.
-- The map makes it easy to identify crime hotspots across Atlanta.
+- Property crime was the most common offence.
+- Crime levels varied between neighbourhoods.
+- Some time periods showed noticeably higher levels of crime.
+- The interactive map helped highlight crime hotspots across the city.
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
-This project gave me more hands-on experience with Power BI and introduced me to some new challenges.
+This project helped me gain more confidence using Power BI to build interactive dashboards.
 
-Some of the things I found most challenging were:
+The biggest challenge was creating a data model with the correct relationships and writing DAX measures for KPIs and calculations. I also spent time improving the dashboard layout so the information was easy to explore without feeling overcrowded.
 
-- Cleaning inconsistent data in Power Query.
-- Building a data model with the correct relationships.
-- Writing DAX measures for KPIs and dynamic calculations.
-- Designing a dashboard that showed enough information without becoming cluttered.
+By completing this project, I became much more comfortable using Power Query for data transformation, DAX for calculations, and Power BI to create dashboards that communicate insights clearly.
 
-Working through these challenges improved my understanding of Power Query, DAX, and dashboard design, and gave me more confidence using Power BI.
 
----
-
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning
-- Data transformation
 - Power Query
 - Data modelling
 - DAX
-- Interactive dashboard design
+- Dashboard design
 - Data visualisation
-- Business intelligence
 
 ---
 
-## 🚀 About This Project
-
-This project is part of my data analytics portfolio.
-
-It gave me practical experience working with real-world data, transforming it in Power Query, building a data model, writing DAX measures, and creating an interactive dashboard in Power BI.
-
----
-
-## 👤 Author
+## Author
 
 **Wioletta Zajac**
